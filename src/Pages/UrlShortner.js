@@ -39,6 +39,7 @@ function UrlShortner() {
         </button>
       </div>
       <div className="text-center pt-5 mt-5">
+        <h2 className="p-4">SHORT URL</h2>
         <a className="h3" href={link} target="_blank" rel="noreferrer">
           {shortLink}
         </a>
