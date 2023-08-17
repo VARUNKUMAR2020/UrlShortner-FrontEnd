@@ -2,3 +2,11 @@
     background-color:rgb(210, 231, 210);
     color:rgb(137, 54, 13);
 }
+* {
+  margin: 0px;
+  font-size: 20px;
+}
+
+body {
+  background-color: antiquewhite;
+}
