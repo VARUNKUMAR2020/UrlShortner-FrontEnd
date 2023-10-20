@@ -1,4 +1,4 @@
-<h1> Reset - Password </h1>
+<h1>URL - Shortner </h1>
 
 <h6>Front-End Link - https://varun-urlshortner.netlify.app</h6>
 
